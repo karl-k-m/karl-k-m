@@ -1,16 +1,15 @@
-### Hi there 👋
+# About
+Hi, I'm Karl. I occasionally write code.
+CS Student @ Tartu University, Estonia.
 
-<!--
-**karl-k-m/karl-k-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Skills
+### Languages
+![Languages](https://skillicons.dev/icons?i=java,py,postgres,js,cpp)
 
-Here are some ideas to get you started:
+### Tech
+![Tech](https://skillicons.dev/icons?i=linux,arduino,angular)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Interests
+While I am most familiar and comfortable with back-end development, I am looking to improve my front-end skillset. I also have experience working on Arduinos and other single-board microcontrollers, mainly for IoT and home automation functions.  
+
+I am currently working on familiarizing myself with PaperMC / Spigot development.
