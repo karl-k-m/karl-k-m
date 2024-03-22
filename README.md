@@ -4,7 +4,7 @@ CS Student @ Tartu University, Estonia.
 
 # Skills
 ### Languages
-![Languages](https://skillicons.dev/icons?i=java,py,postgres,js,cpp,cs)
+![Languages](https://skillicons.dev/icons?i=java,py,postgres,js,ts,cpp,cs)
 
 ### Tech & Frameworks
 ![Tech](https://skillicons.dev/icons?i=linux,arduino,angular,react)
